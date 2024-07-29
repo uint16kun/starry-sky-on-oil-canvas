@@ -58,7 +58,7 @@ export default defineConfig({
     },
   },
   build: {
-    outDir: '../../docs',
+    outDir: '../../docs/starry-sky-on-oil-canvas',
     sourcemap: true,
   },
 });
