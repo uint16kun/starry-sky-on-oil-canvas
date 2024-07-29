@@ -1,6 +1,6 @@
 bgm:s_Title.mp3 -volume=80 -enter=3000;
 unlockBgm:s_Title.mp3 -name=雲を追いかけて;
-intro:你好|欢迎来到 {egine} 的世界;
+intro:如今来想，有神无神并不值得讨论，但在命运的混沌之点，人自然会忽略着科学，向虚暝之中寄托一份虔敬的期盼|     ——史铁生《我二十一岁那年》;
 changeBg:WebGalEnter.png -next;
 setTransition: -target=bg-main -exit=shockwaveOut;
 :你好|欢迎来到 {egine} 的世界;
